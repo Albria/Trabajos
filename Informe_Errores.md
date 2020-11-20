@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    ## Informe de errores en web
+## Informe de errores en web
 Web: **https://es.hboespana.com/**
 
 - ### Errores de imagen por falta de texto alternativo.
@@ -22,5 +14,3 @@ Web: **https://es.hboespana.com/**
 
 	-	**Ejemplo 2:** <img src="https://cms.hboespana.com/images/944a874f-5d74-4d5f-b515-abe0b7db340a.png" class="cTytv">
 	-	**Solución:** añadir *alt="Ir a HBO España Facebook"* detrás de *class="cTytv"*.
-</body>
-</html>
